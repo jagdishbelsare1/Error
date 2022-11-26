@@ -1,0 +1,3 @@
+How to Clear Cache in Linux?
+
+# sync; echo 1 > /proc/sys/vm/drop_caches
